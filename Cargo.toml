@@ -14,7 +14,7 @@ version = '1.0.126'
 default-features = false
 git = 'https://github.com/paritytech/substrate.git'
 branch = "polkadot-v0.9.20"
-version = '4.0.0-dev'
+version = '6.0.0'
 
 [dependencies.sp-io]
 default-features = false
